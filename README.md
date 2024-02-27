@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rupendrachoudhary25
+- 👋 Hi, I’m Rupendra Choudhary
 - 🌱 I’m currently learning : Full Stack Web development 
-- 📫 Connect with me on linkedin : rupendra choudhary
+- 📫 Connect with me on linkedin : Rupendra Choudhary
 
 <!---
 rupendrachoudhary25/rupendrachoudhary25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
