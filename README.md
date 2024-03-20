@@ -1,4 +1,4 @@
-Hi, I'm Rupendra 👋
+Hi, I'm Rupendra 👋 <br>
 I'm a frontend developer specializing in pixel-perfect web design.
 
 Stay updated with my journey on LinkedIn.
