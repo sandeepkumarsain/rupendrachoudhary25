@@ -17,7 +17,7 @@ I'm currently learning MERN Stack, where my journey involves both building and l
  
  For professional inquiries, reach out via email at [rupendrachoudhary25@gmail.com](mailto:rupendrachoudhayr25@gmail.com). 
 
- ## Code
+ ## 💻 Code
 
  <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
